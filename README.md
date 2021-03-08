@@ -14,7 +14,7 @@
 
 # Notes:
 
-For ltl-exp and ltl-poly i choosed the encoding that maximises the overall performances, folders ltl-exp.tar.xz and ltl-poly.tar.xz.
+For ltl-exp and ltl-poly i choosed the encoding that, to the best of my knowledge, maximises the overall performances with the tested systems; folders ltl-exp.tar.xz and ltl-poly.tar.xz.
 
 The benchmarks used for tcore and the others pddl3 systems are in the pddl3_systems.tar.xz folder.
 
