@@ -2,6 +2,8 @@
 
 # Commands used to launch planners/compilers
 
+python3.6 ./launch_tcore.py DOMAIN PROBLEM OUTPUT 
+
 ./sgplan522 -o DOMAIN -f PROBLEM -out OUTPUT
 
 ./mips PATH PROBLEM DOMAIN OUTPUT
